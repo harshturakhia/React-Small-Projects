@@ -7,6 +7,10 @@ Password Generator -- using useCallback Hook by learning from 'Chai and Code' En
 
 
 
+Todo via Redux Toolkit -- Hitesh Choudhary - Chai and Code, with redux toolkit
+
+
+
 Context API -- using useContext Hook and Context Provider by learning from 'Chai and Code' English Channel
 
 
